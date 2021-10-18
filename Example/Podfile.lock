@@ -1,0 +1,16 @@
+PODS:
+  - EvenlyWrappedLabel (0.1.0)
+
+DEPENDENCIES:
+  - EvenlyWrappedLabel (from `../`)
+
+EXTERNAL SOURCES:
+  EvenlyWrappedLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EvenlyWrappedLabel: 859fb565ecae1daa20fa3c58e6162f01a61b0ffa
+
+PODFILE CHECKSUM: 29b04216f0f9956516b34f8b87ba908b18c07f9f
+
+COCOAPODS: 1.3.1
